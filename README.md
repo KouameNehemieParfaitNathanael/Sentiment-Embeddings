@@ -24,7 +24,7 @@ Before you begin, make sure your computer meets these:
 - 4 GB or more of RAM
 - At least 2 GB of free disk space
 - Internet connection for the initial setup
-- Python 3.8 or higher (the installer will help with this)
+- Python 3.10 or higher (the installer will help with this)
 
 ---
 
